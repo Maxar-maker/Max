@@ -1,0 +1,20 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "3dpea GLTFExporter"
+  },
+  "scenes": [
+    {
+      "name": "AuxScene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "name": "Unnamed-ChainiceDragon003"
+    }
+  ]
+}
